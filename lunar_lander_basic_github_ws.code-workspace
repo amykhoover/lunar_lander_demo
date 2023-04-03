@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "/Users/amy/bin/miniconda3/envs/lunar_lander/bin"
+	}
+}
