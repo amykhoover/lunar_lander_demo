@@ -7,7 +7,7 @@ def policy(obs):
 def random_action_policy(obs, action_space):
     return action_space.sample()
 
-# round(answer, 2)
+# print off the observation values in an easy-to-read way
 def pretty_print_obs(obs, digit_count):
     new_list = []
     for num in obs:
